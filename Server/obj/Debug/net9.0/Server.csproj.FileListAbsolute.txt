@@ -16,3 +16,4 @@ D:\Projects\Visual\Chat202\Server\bin\Debug\net9.0\Core.dll
 D:\Projects\Visual\Chat202\Server\bin\Debug\net9.0\Core.pdb
 D:\Projects\Visual\Chat202\Server\obj\Debug\net9.0\Server.csproj.AssemblyReference.cache
 D:\Projects\Visual\Chat202\Server\obj\Debug\net9.0\Server.csproj.Up2Date
+D:\Projects\Visual\Chat202\Server\obj\Debug\net9.0\Server.sourcelink.json

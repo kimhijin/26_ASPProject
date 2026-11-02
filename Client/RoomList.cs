@@ -1,13 +1,4 @@
 ﻿using Core;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace Client
 {
@@ -17,16 +8,33 @@ namespace Client
         {
             InitializeComponent();
             Singleton.Instance.CreateRoomResponsed += CreateRoomResponsd;
+            Singleton.Instance.RoomListResponsed += RoomListResponsed;
 
             FormClosing += (s, e) =>
             {
                 Singleton.Instance.CreateRoomResponsed -= CreateRoomResponsd;
+                Singleton.Instance.RoomListResponsed -= RoomListResponsed;
             };
             //활성화 때마다(처음 보여질때, 다른 창 보고 있다가 이창으로 돌아왔을 때
-            Activated += (s,e) =>
+            Activated += (s, e) =>
             {
                 btn_refresh_Click(null, EventArgs.Empty);
             };
+        }
+
+        private void RoomListResponsed(object? sender, EventArgs e)
+        {
+            if (InvokeRequired)
+            {
+                Invoke(new Action(() => RoomListResponsed(sender, e)));
+                return;
+            }
+
+            RoomListResPacket packet = (RoomListResPacket)sender;
+            foreach (var item in packet.RoomNames)
+            {
+                listBox_roomList.Items.Add(item);
+            }
         }
 
         private async void btn_createRoom_Click(object sender, EventArgs e)
@@ -57,7 +65,7 @@ namespace Client
                 {
                     listBox_roomList.Items.Add(tbx_roomName.Text);
                     ChatRoom chatRoom = new ChatRoom();
-                    chatRoom.ShowDialog();
+                    chatRoom.Show();
                     EndInvoke(ar);
                 });
 

@@ -3,7 +3,6 @@ using Core;
 using System.Collections.Concurrent;
 using System.Net;
 using System.Net.Sockets;
-using System.Threading.Tasks;
 
 namespace Server
 {
@@ -23,7 +22,7 @@ namespace Server
 
         public async Task StartAsync()
         {
-            while(true)
+            while (true)
             {
                 try
                 {
@@ -32,7 +31,7 @@ namespace Server
                     //send, recv
                     _ = Task.Run(() => RunAsync(clientSocket));
                 }
-                catch(SocketException e)
+                catch (SocketException e)
                 {
                     Console.WriteLine(e);
                 }
@@ -46,8 +45,8 @@ namespace Server
 
             string id = "";
             string nickName = "";
-            string roomName = ""; 
-            while(true)
+            string roomName = "";
+            while (true)
             {
                 int n1 = await clientSocket.ReceiveAsync(headerBuffer, SocketFlags.None);
                 if (n1 < 1)
@@ -56,9 +55,9 @@ namespace Server
                     clientSocket.Close();
                     break;
                 }
-                else if(n1 == 1)
+                else if (n1 == 1)
                 {
-                     await clientSocket.ReceiveAsync(new ArraySegment<byte>(headerBuffer, 1,1), SocketFlags.None);
+                    await clientSocket.ReceiveAsync(new ArraySegment<byte>(headerBuffer, 1, 1), SocketFlags.None);
                 }
 
                 short dataSize = BitConverter.ToInt16(headerBuffer);

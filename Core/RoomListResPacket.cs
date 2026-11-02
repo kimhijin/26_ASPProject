@@ -2,7 +2,7 @@
 
 namespace Core
 {
-    internal class RoomListResPacket : IPacket
+    public class RoomListResPacket : IPacket
     {
         public List<string> RoomNames { get; }
 

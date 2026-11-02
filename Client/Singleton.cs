@@ -1,8 +1,6 @@
 ﻿using Core;
-using System.Diagnostics;
 using System.Net;
 using System.Net.Sockets;
-using System.Threading.Tasks;
 
 namespace Client
 {
@@ -16,6 +14,7 @@ namespace Client
 
         public event EventHandler<EventArgs> LoginResponsed;
         public event EventHandler<EventArgs> CreateRoomResponsed;
+        public event EventHandler<EventArgs> RoomListResponsed;
 
         private static Singleton? instance;
         public static Singleton Instance
@@ -28,7 +27,8 @@ namespace Client
             }
         }
 
-        private Singleton() { 
+        private Singleton()
+        {
 
         }
 
@@ -81,9 +81,9 @@ namespace Client
                         CreateRoomResPacket resPacket = new CreateRoomResPacket(dataBuffer);
                         CreateRoomResponsed?.Invoke(resPacket, EventArgs.Empty);
                         break;
-                    case PacketType.RoomListReq:
-                        break;
                     case PacketType.RoomListRes:
+                        RoomListResPacket roomListPacket = new RoomListResPacket(dataBuffer);
+                        RoomListResponsed?.Invoke(roomListPacket, EventArgs.Empty);
                         break;
                     case PacketType.EnterRoomReq:
                         break;

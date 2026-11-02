@@ -20,3 +20,4 @@ D:\Projects\Visual\Chat202\Client\obj\Debug\net9.0-windows\Client.csproj.Assembl
 D:\Projects\Visual\Chat202\Client\obj\Debug\net9.0-windows\Client.csproj.Up2Date
 D:\Projects\Visual\Chat202\Client\obj\Debug\net9.0-windows\Client.ChatRoom.resources
 D:\Projects\Visual\Chat202\Client\obj\Debug\net9.0-windows\Client.RoomList.resources
+D:\Projects\Visual\Chat202\Client\obj\Debug\net9.0-windows\Client.sourcelink.json
