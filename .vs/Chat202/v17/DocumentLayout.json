@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Visual\\Chat202\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\roomlistrespacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\roomlistrespacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\createroomrespacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\createroomrespacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\roomlistreqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\roomlistreqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\loginreqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\loginreqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\roomlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\roomlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\roomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\roomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|D:\\Projects\\Visual\\Chat202\\client\\roomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\roomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\createroomreqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\createroomreqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|D:\\Projects\\Visual\\Chat202\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3253D0B-C311-416A-B538-E2D45F8770A6}|Server\\Server.csproj|d:\\projects\\visual\\chat202\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3253D0B-C311-416A-B538-E2D45F8770A6}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3253D0B-C311-416A-B538-E2D45F8770A6}|Server\\Server.csproj|d:\\projects\\visual\\chat202\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3253D0B-C311-416A-B538-E2D45F8770A6}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\loginrespacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\loginrespacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|D:\\Projects\\Visual\\Chat202\\client\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\ipacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\ipacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|d:\\projects\\visual\\chat202\\core\\packettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCA9CC8-608F-4AAA-B613-6B19779FE41D}|Core\\Core.csproj|solutionrelative:core\\packettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\roomlist.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\roomlist.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\chatroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\chatroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|d:\\projects\\visual\\chat202\\client\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9CC8EFD4-81C6-4ACA-B982-C7E016E0D250}|Client\\Client.csproj|solutionrelative:client\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomListResPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\RoomListResPacket.cs",
+              "RelativeDocumentMoniker": "Core\\RoomListResPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\RoomListResPacket.cs",
+              "RelativeToolTip": "Core\\RoomListResPacket.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T06:13:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomListReqPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\RoomListReqPacket.cs",
+              "RelativeDocumentMoniker": "Core\\RoomListReqPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\RoomListReqPacket.cs",
+              "RelativeToolTip": "Core\\RoomListReqPacket.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:58:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRoomResPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\CreateRoomResPacket.cs",
+              "RelativeDocumentMoniker": "Core\\CreateRoomResPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\CreateRoomResPacket.cs",
+              "RelativeToolTip": "Core\\CreateRoomResPacket.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:15:49.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\Singleton.cs",
+              "RelativeDocumentMoniker": "Client\\Singleton.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\Singleton.cs",
+              "RelativeToolTip": "Client\\Singleton.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T01:13:57.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:17:46.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T01:38:40.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginResPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\LoginResPacket.cs",
+              "RelativeDocumentMoniker": "Core\\LoginResPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\LoginResPacket.cs",
+              "RelativeToolTip": "Core\\LoginResPacket.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T06:17:38.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.cs",
+              "RelativeToolTip": "Client\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:21:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomList.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.cs",
+              "RelativeDocumentMoniker": "Client\\RoomList.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.cs",
+              "RelativeToolTip": "Client\\RoomList.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:27:03.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateRoomReqPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\CreateRoomReqPacket.cs",
+              "RelativeDocumentMoniker": "Core\\CreateRoomReqPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\CreateRoomReqPacket.cs",
+              "RelativeToolTip": "Core\\CreateRoomReqPacket.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:17:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Client\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:17:01.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomList.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.cs",
+              "RelativeDocumentMoniker": "Client\\RoomList.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Client\\RoomList.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:19:05.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\Form1.Designer.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.Designer.cs",
+              "RelativeToolTip": "Client\\Form1.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIAwwE0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:19:58.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginReqPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\LoginReqPacket.cs",
+              "RelativeDocumentMoniker": "Core\\LoginReqPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\LoginReqPacket.cs",
+              "RelativeToolTip": "Core\\LoginReqPacket.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:29:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPacket.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\IPacket.cs",
+              "RelativeDocumentMoniker": "Core\\IPacket.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\IPacket.cs",
+              "RelativeToolTip": "Core\\IPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:28:19.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\Room.cs",
+              "RelativeDocumentMoniker": "Core\\Room.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\Room.cs",
+              "RelativeToolTip": "Core\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:35:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatRoom.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "Client\\ChatRoom.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\ChatRoom.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Client\\ChatRoom.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:00:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomList.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\RoomList.Designer.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.Designer.cs",
+              "RelativeToolTip": "Client\\RoomList.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADgvz8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:14:26.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PacketType.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Core\\PacketType.cs",
+              "RelativeDocumentMoniker": "Core\\PacketType.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Core\\PacketType.cs",
+              "RelativeToolTip": "Core\\PacketType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:39:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.resx",
+              "RelativeDocumentMoniker": "Client\\Form1.resx",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\Form1.resx",
+              "RelativeToolTip": "Client\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-12T01:20:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomList.resx",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.resx",
+              "RelativeDocumentMoniker": "Client\\RoomList.resx",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\RoomList.resx",
+              "RelativeToolTip": "Client\\RoomList.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-25T06:11:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatRoom.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\ChatRoom.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\ChatRoom.Designer.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\ChatRoom.Designer.cs",
+              "RelativeToolTip": "Client\\ChatRoom.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T00:00:05.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Visual\\Chat202\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\Projects\\Visual\\Chat202\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T01:21:17.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
