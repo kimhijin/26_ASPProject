@@ -100,6 +100,9 @@ namespace Server
                     case PacketType.CreateRoomRes:
                         break;
                     case PacketType.RoomListReq:
+                        //키(방 이름)를 가져올 수 있다
+                        RoomListResPacket roomListPacket = new RoomListResPacket(Rooms.Keys);
+                        await clientSocket.SendAsync(roomListPacket.Serialize(), SocketFlags.None);
                         break;
                     case PacketType.RoomListRes:
                         break;
